@@ -1,0 +1,19 @@
+Day Planner
+
+Priorities:
+- summer internship/research position
+- prepare for aws certification
+- get good at leetcode
+- resume project
+
+AWS Study plan
+- Use this goldmine of a test dump (384 questions): https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner-clf-c02/view/4/
+
+Tues
+2-3 chat app project
+3-3:30 eat a bowl of pasta again
+3:30-4:30 chat app project
+4:30-5 aws
+5-6 upload linalg notes to study docs whatever that website was
+6-7 tutor
+2 or 3 leetcodes
