@@ -4,7 +4,7 @@ A web chat application built using the MERN stack. Includes real-time messaging 
 
 ## Images
 
-<img src="https://github.com/TN0123/Obsidian-Chat/blob/main/images/Register%20and%20Login%20Page.png" alt="Chat Page"/>
+<img src="https://github.com/TN0123/Obsidian-Chat/blob/main/images/Register%20and%20Login%20Page.png" alt="Register and Login Page"/>
 <img src="https://github.com/TN0123/Obsidian-Chat/blob/main/images/Chat%20Page.png" alt="Chat Page"/>
 
 ## Current Features
